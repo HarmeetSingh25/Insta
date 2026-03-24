@@ -1,0 +1,9 @@
+Aunthication 
+/api/auth/register/ -- register a new user
+/api/auth/login/ -- Login and obtain jwt token
+
+register 
+login 
+logout 
+getMe
+continue with logout
